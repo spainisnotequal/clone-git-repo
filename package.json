@@ -1,0 +1,22 @@
+{
+  "name": "clone-git-repo",
+  "version": "1.0.0",
+  "description": "Clone a git repo",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spainisnotequal/clone-git-repo.git"
+  },
+  "author": "spainisnotequal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spainisnotequal/clone-git-repo/issues"
+  },
+  "homepage": "https://github.com/spainisnotequal/clone-git-repo#readme",
+  "dependencies": {
+    "nodegit": "^0.26.5"
+  }
+}
