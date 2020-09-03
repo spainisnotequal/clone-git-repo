@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/spainisnotequal/clone-git-repo#readme",
   "dependencies": {
+    "bl": "^4.0.3",
     "nodegit": "^0.26.5"
   }
 }
